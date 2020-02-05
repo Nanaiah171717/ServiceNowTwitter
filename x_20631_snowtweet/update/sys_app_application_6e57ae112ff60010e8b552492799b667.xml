@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>pushing a tweet from servicenow</description>
+        <device_type>browser</device_type>
+        <hint>pushing a tweet from servicenow</hint>
+        <name/>
+        <order/>
+        <roles>x_20631_snowtweet.snow_tweet</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 13:14:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6e57ae112ff60010e8b552492799b667</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SnowTweet</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SnowTweet" source="x_20631_snowtweet">17d6e6912fb60010e8b552492799b691</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SnowTweet">17d6e6912fb60010e8b552492799b691</sys_scope>
+        <sys_update_name>sys_app_application_6e57ae112ff60010e8b552492799b667</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 13:14:41</sys_updated_on>
+        <title>SnowTweet</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
